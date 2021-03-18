@@ -1,0 +1,6 @@
+me/mahakagg/hellorelative/MainActivity.java
+ me.mahakagg.hellorelative.MainActivity
+me/mahakagg/hellorelative/BuildConfig.java
+ me.mahakagg.hellorelative.BuildConfig
+me/mahakagg/hellorelative/SecondActivity.java
+ me.mahakagg.hellorelative.SecondActivity
